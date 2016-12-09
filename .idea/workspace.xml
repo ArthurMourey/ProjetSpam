@@ -2,9 +2,269 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf99ce8c-02e9-4160-8c33-a097fb9b50e5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__colt_colt_1_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codahale_metrics_metrics_core_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codahale_metrics_metrics_graphite_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codahale_metrics_metrics_json_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codahale_metrics_metrics_jvm_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_reflectasm_shaded_1_07.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_10_0_3_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_3_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scalalogging_slf4j_2_10_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__concurrent_concurrent_1_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_6_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_17_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_1_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_mesos_mesos_shaded_protobuf_0_18_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_10_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_2_10_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_8_1_14_v20131031.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_activation_1_1_0_v201105071233.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_mail_glassfish_1_4_1_v201005082020.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_transaction_1_1_1_v201105210645.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jblas_jblas_1_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_10_3_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_10_3_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_10_3_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_2_10_0_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_macros_2_10_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_akka_akka_actor_2_10_2_2_3_shaded_protobuf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_akka_akka_remote_2_10_2_2_3_shaded_protobuf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_akka_akka_slf4j_2_10_2_2_3_shaded_protobuf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_protobuf_protobuf_java_2_4_1_shaded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_pyrolite_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_2_10_0_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spire_math_spire_macros_2_10_0_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tachyonproject_tachyon_0_4_1_thrift.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_maths_uncommons_maths_1_2_2a.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0780.2000-03-28.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0781.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0782.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0783.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0785.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0787.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0789.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0790.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0792.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0793.2000-03-29.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0795.2000-03-30.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0796.2000-03-30.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0798.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0800.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0801.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0802.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0804.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0806.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0807.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0808.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0809.2000-03-31.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0812.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0813.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0815.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0816.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0817.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0818.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0819.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0821.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0822.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0823.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0824.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0825.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0826.2000-04-03.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0827.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0828.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0829.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0831.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0832.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0833.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0834.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0837.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0839.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0841.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0843.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0845.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0846.2000-04-04.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0848.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0850.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0851.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0852.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0853.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0855.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0856.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0857.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0859.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0860.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0863.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0864.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0866.2000-04-05.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0868.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0869.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0870.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0872.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0873.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0875.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0876.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0877.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0878.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0879.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0880.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0882.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0884.2000-04-06.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0885.2000-04-07.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0886.2000-04-07.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0888.2000-04-07.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0890.2000-04-07.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0892.2000-04-07.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0894.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0896.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0898.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0900.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0901.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/non spam/0902.2000-04-10.farmer.ham.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0630.2004-03-10.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0634.2004-03-11.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0640.2004-03-12.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0644.2004-03-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0647.2004-03-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0651.2004-03-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0657.2004-03-14.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0658.2004-03-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0660.2004-03-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0661.2004-03-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0663.2004-03-16.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0667.2004-03-16.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0668.2004-03-16.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0670.2004-03-17.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0671.2004-03-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0673.2004-03-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0674.2004-03-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0682.2004-03-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0686.2004-03-20.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0687.2004-03-21.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0692.2004-03-21.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0693.2004-03-21.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0695.2004-03-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0697.2004-03-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0699.2004-03-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0705.2004-03-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0707.2004-03-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0709.2004-03-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0710.2004-03-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0712.2004-03-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0717.2004-03-24.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0718.2004-03-24.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0721.2004-03-25.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0723.2004-03-25.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0726.2004-03-26.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0733.2004-03-26.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0734.2004-03-27.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0737.2004-03-27.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0746.2004-03-29.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0747.2004-03-29.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0750.2004-03-30.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0751.2004-03-30.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0754.2004-04-01.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0758.2004-04-02.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0760.2004-04-02.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0762.2004-04-03.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0763.2004-04-03.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0764.2004-04-04.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0767.2004-04-04.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0775.2004-04-05.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0779.2004-04-05.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0784.2004-04-06.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0786.2004-04-06.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0788.2004-04-06.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0791.2004-04-06.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0794.2004-04-07.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0797.2004-04-09.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0799.2004-04-09.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0803.2004-04-10.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0805.2004-04-11.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0810.2004-04-11.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0811.2004-04-12.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0814.2004-04-12.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0820.2004-04-12.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0830.2004-04-12.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0835.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0836.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0838.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0840.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0842.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0844.2004-04-13.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0847.2004-04-14.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0849.2004-04-14.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0854.2004-04-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0858.2004-04-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0861.2004-04-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0862.2004-04-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0865.2004-04-15.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0867.2004-04-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0871.2004-04-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0874.2004-04-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0881.2004-04-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0883.2004-04-18.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0887.2004-04-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0889.2004-04-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0891.2004-04-19.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0893.2004-04-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0895.2004-04-22.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0897.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0899.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0903.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0905.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0910.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0913.2004-04-23.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0914.2004-04-24.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0920.2004-04-24.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0924.2004-04-24.GP.spam.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data modele/spam/0928.2004-04-24.GP.spam.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjetSpam.iml" afterPath="$PROJECT_DIR$/ProjetSpam.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/EmailClassifier.scala" afterPath="$PROJECT_DIR$/src/main/scala/EmailClassifier.scala" />
     </list>
     <ignored path="ProjetSpam.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +290,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="342">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -40,9 +300,11 @@
       <file leaf-file-name="EmailClassifier.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/EmailClassifier.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="159">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +330,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/EmailClassifier.scala" />
       </list>
     </option>
   </component>
@@ -203,11 +466,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="donnees" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data modele" />
+              <option name="myItemId" value="modele" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,8 +483,28 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EmailClassifier">
+    <configuration default="false" name="EmailClassifier" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="EmailClassifier" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjetSpam" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -674,6 +957,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.EmailClassifier" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.EmailClassifier" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -690,34 +981,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481270086125</updated>
-      <workItem from="1481270096271" duration="733000" />
+      <workItem from="1481270096271" duration="7003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="733000" />
+    <option name="totallyTimeSpent" value="7003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -739,7 +1033,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -757,19 +1053,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="342">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/EmailClassifier.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="159">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProjetSpam</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
